@@ -36,8 +36,18 @@
     text-align: center;
     margin-top: 20px;
 
+    height: 700px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
 
 
+
+}
+
+.Donate-Today #Other-Amount p {
+    color: red;
 }
 
 .Donate-Today h1 {
@@ -50,6 +60,11 @@
 
 .Donate-Today p {
     font-size: 30px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
 }
 
 .main-tk {
@@ -72,3 +87,64 @@
     margin: 20px;
     box-shadow: 10px 5px 7px black;
 }
+
+.Donate-Today .link {
+
+    text-decoration: none;
+    background-color: orange;
+    padding: 20px 30px;
+    border-radius: 10px;
+}
+
+.Donate-Plan .center {
+    text-align: center;
+    font-size: 25px;
+}
+
+.Food-for {
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.Food-for .sov {
+    width: 33%;
+    /* background-color: aqua; */
+    margin-left: 20px;
+
+    font-size: 20px;
+
+}
+
+.Food-for .sov img {
+    padding-top: 15px;
+    padding-left: 20px;
+    padding: 20px;
+}
+
+.Food-for .sov h1 {
+
+    padding-left: 20px;
+
+}
+
+.Food-for .sov p {
+    text-align: center;
+
+}
+
+.Food-for #fast {
+    background-color: aquamarine;
+
+}
+
+.Food-for #secent {
+    background-color: rgb(237, 12, 151);
+}
+
+.Food-for #thard {
+    background-color: aqua;
+
+}
+
+#Their_lives {}
