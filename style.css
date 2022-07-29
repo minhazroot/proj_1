@@ -214,3 +214,17 @@ body {
     text-align: center;
 
 }
+
+footer {
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+    height: 200px;
+    background-color: black;
+    font-size: 50px;
+}
+
+footer p {
+    color: orange;
+    font-size: 45px;
+}
