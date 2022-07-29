@@ -147,4 +147,70 @@ body {
 
 }
 
-#Their_lives {}
+#Their_lives {
+    display: flex;
+    height: 400px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+
+
+}
+
+#Their_lives .mk img {
+    height: 400px;
+    width: 90%;
+}
+
+#Their_lives .mk {
+    margin-top: 10px;
+    padding-left: 10px;
+    /* text-align: center; */
+
+}
+
+#Their_lives .mk h1 {
+    font-size: 40px;
+}
+
+#Their_lives .mk p {
+    font-size: 20px;
+
+}
+
+#Their_lives .mk a {
+    text-decoration: none;
+    padding-top: 10px;
+    padding: 20px 30px;
+    background-color: orange;
+    border-radius: 10px;
+
+}
+
+.lest_section {
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.lest_section #box {
+    height: 40px;
+    width: 40%;
+    display: inline;
+
+
+}
+
+.lest_section #sub {
+    display: inline;
+    padding: 13px 35px;
+    background-color: orange;
+
+}
+
+#email_input {
+
+    text-align: center;
+
+}
